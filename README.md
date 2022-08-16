@@ -25,6 +25,7 @@ Netlify link:- https://theoutne-e7f2b5.netlify.app/
 
 ### Products Page
 <p>There are severeal categories of products pages. Few of them are mentioned below.</p>
+
 ###### Just in: It shows latest products such as shirts, trousers, bags etc. Also it has sorting and filter options.
 ###### Best Seller: This page has the products which are sold most number of times. 
 ###### Clothing: This page shows products such as clothes such as shirts, Trousers, Jeans, t-shirts etc.
