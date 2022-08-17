@@ -23,7 +23,7 @@ Netlify link:- https://theoutne-e7f2b5.netlify.app/
 <p>It contains Navigation bar with different categories and search tab where customer can search for the required product. Also footer which provides some information about the company and links to social media handles. Also it shows images of some latest products.</p>
 <img src="https://profound-praline-87ef51.netlify.app/images/homepage.jpg"/>
 
-## Signup and Login 
+## Signup and Login page 
 <p>On this page, user can signup and after successfully signingup he can login.</p>
 <img src="https://leafy-mandazi-cc6379.netlify.app/images/signup.png"/><img src="https://leafy-mandazi-cc6379.netlify.app/images/login.png"/>
 
@@ -37,23 +37,23 @@ Netlify link:- https://theoutne-e7f2b5.netlify.app/
 
 <img src="https://profound-praline-87ef51.netlify.app/images/productspage.jpg"/>
 
-### Product
+### Product page
 <p>On clicking any of the product it will redirect to the products page which shows detail information of the product along with buttons such as add to bag and add to wish list.</p>
 <img src="https://profound-praline-87ef51.netlify.app/images/productpage.jpg"/>
 
-### Wish list
+### Wishlist page
 <p>This page shows the products which customer add to the wish list from product page. From here we can add product into bag or customer can also remove it from the wish list.</p>
 <img src="https://profound-praline-87ef51.netlify.app/images/wishlist.jpg"/>
 
-### Cart
+### Cart page
 <p>On cart page customer can see the order summary and also customer can increase and decrease the quantity of the product. Also there is promo code section where customer can apply promo code and avail discount. </p>
 <img src="https://profound-praline-87ef51.netlify.app/images/cart.jpg"/>
 
-### Checkout
+### Checkout page
 <p>Here customer have to provide address details and select payment option. And after that he/she can review and place the order. </p>
 <img src="https://profound-praline-87ef51.netlify.app/images/checkout.jpg"/>
-
-### Payment
+ 
+### Payments page
 <p>Here customer has to enter the OTP which he/she receives on mobile in a minute. And after that he will get the confirmation message of placed order. </p>
 <img src="https://profound-praline-87ef51.netlify.app/images/payments.jpg"/>
 <img src="https://profound-praline-87ef51.netlify.app/images/screenshot.jpg"/>
@@ -62,7 +62,7 @@ Netlify link:- https://theoutne-e7f2b5.netlify.app/
 1.	HTML
 2.	CSS
 3.	JavaScript - ES6, local Storage, DE-bouncing, Fetch API, Import / Export, 
-                    Set Interval / Set Timeout.
+                 Set Interval / Set Timeout.
 4.	API - for signIn and signUp functionality we used https://github.com/masai-school/api-mocker/wiki/Authentication-API
 5.  for search functionality we used https://api.unsplash.com
 ## Roles and Responsibilities:
