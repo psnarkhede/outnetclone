@@ -23,6 +23,10 @@ Netlify link:- https://theoutne-e7f2b5.netlify.app/
 <p>It contains Navigation bar with different categories and search tab where customer can search for the required product. Also footer which provides some information about the company and links to social media handles. Also it shows images of some latest products.</p>
 <img src="https://profound-praline-87ef51.netlify.app/images/homepage.jpg"/>
 
+## Signup and Login 
+<p>On this page, user can signup and after successfully signingup he can login.</p>
+<img src="http://127.0.0.1:5500/outnet/images/signup.png"/><img src="http://127.0.0.1:5500/outnet/images/login.png"/>
+
 ### Products Page
 <p>There are severeal categories of products pages. Few of them are mentioned below.</p>
 
