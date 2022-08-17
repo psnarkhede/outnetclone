@@ -25,7 +25,7 @@ Netlify link:- https://theoutne-e7f2b5.netlify.app/
 
 ## Signup and Login 
 <p>On this page, user can signup and after successfully signingup he can login.</p>
-<img src="http://127.0.0.1:5500/outnet/images/signup.png"/><img src="http://127.0.0.1:5500/outnet/images/login.png"/>
+<img src="https://leafy-mandazi-cc6379.netlify.app/images/signup.png"/><img src="https://leafy-mandazi-cc6379.netlify.app/images/login.png"/>
 
 ### Products Page
 <p>There are severeal categories of products pages. Few of them are mentioned below.</p>
